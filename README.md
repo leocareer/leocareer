@@ -32,14 +32,38 @@ I'm Leo, I love answering complex questions with clear visualizations, finding i
     </tr>
     <tr>
         <td><b>Power BI</b></td>
-        <td>Interactive Data Visualization in Power BI. demonstrate data transformation, KPI tracking, and insightful visual storytelling.</td>
-        <td>Power BI, DAX, Power Query, Data Modeling, Interactive Visualizations</td>
-        <td><a href="https://github.com/leocareer/Dashboards">GitHub</a></td>
+        <td><b>Dark Dashboard. </b> </td>
+        <td></td>
+        <td><a href="https://github.com/leocareer/Dashboards/tree/main/Proyectos">GitHub</a></td>
+    </tr>
+    <tr>
+        <td><b>Power BI</b></td>
+        <td><b>KPI Dashboard. </b> </td>
+        <td></td>
+        <td><a href="https://github.com/leocareer/DA_specialization/tree/main/Sprint_05">GitHub</a></td>
+    </tr>
+    <tr>
+        <td><b>Power BI</b></td>
+        <td><b>Report. </b> </td>
+        <td></td>
+        <td><a href="https://github.com/leocareer/DA_specialization/tree/main/Sprint_06">GitHub</a></td>
     </tr>
     <tr>
         <td><b>SQL</b></td>
-        <td>Basics & Advanced Queries, using a sample database. Each query is accompanied by explanations and examples to illustrate key SQL concepts.</td>
-        <td>SELECT, WHERE, GROUP BY, HAVING, ORDER BY, JOIN, Subqueries, Views, Data Manipulation</td>
+        <td><b>Basic Queries. </b> </td>
+        <td></td>
+        <td><a href="https://github.com/leocareer/DA_specialization/tree/main/Sprint_03">GitHub</a></td>
+    </tr>
+    <tr>
+        <td><b>SQL</b></td>
+        <td><b>Managing Indexes, Tables and Views. </b> </td>
+        <td></td>
+        <td><a href="https://github.com/leocareer/DA_specialization/tree/main/Sprint_03">GitHub</a></td>
+    </tr>
+    <tr>
+        <td><b>SQL</b></td>
+        <td><b>Managing Database. </b> </td>
+        <td></td>
         <td><a href="https://github.com/leocareer/DA_specialization/tree/main/Sprint_03">GitHub</a></td>
     </tr>
 </table>
