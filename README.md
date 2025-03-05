@@ -21,7 +21,7 @@ I'm Leo, I love answering complex questions with clear visualizations, finding i
     <tr>
         <td><b>Python<br>SQL<br>Power BI</b></td>
         <td><b>Data Visualization. Complete Analytics Workflow. </b>Data visualization using Python while integrating with MySQL databases and Power BI reporting. It covers data extraction, transformation, and uncovering insights with advanced visualization tools in Python.</td>
-        <td>Pandas, NumPy, SQLAlchemy, Matplotlib, Seaborn, ETL, MySQL Workbench and Python, and Power BI Integration. </td>
+        <td>Pandas, NumPy, SQLAlchemy, Matplotlib, Seaborn, ETL-like process, MySQL Workbench and Python, and Power BI Integration. </td>
         <td><a href="https://github.com/leocareer/DA_specialization/tree/main/Sprint_08">GitHub</a></td>
     </tr>
     <tr>
@@ -32,20 +32,20 @@ I'm Leo, I love answering complex questions with clear visualizations, finding i
     </tr>
     <tr>
         <td><b>Power BI</b></td>
-        <td><b>Dark Dashboard. </b> </td>
-        <td></td>
+        <td><b>Dashboard. </b>A one-page dashboard includes a quick overview of key metrics such as total projects, total employees, project start trends, department-wise project distribution, planned vs actual work hours, budget allocation, and individual employee workload summary.</td>
+        <td>Data Modeling, DAX, Dashboard Building, Dashboard Design.</td>
         <td><a href="https://github.com/leocareer/Dashboards/tree/main/Proyectos">GitHub</a></td>
     </tr>
     <tr>
         <td><b>Power BI</b></td>
-        <td><b>KPI Dashboard. </b> </td>
-        <td></td>
+        <td><b>Report. </b>A three-page report designed for in-depth sales performance analysis, includes key sales metrics, geographic distribution of clients, transaction trends, and detailed insights into purchasing behavior. It is accompanied by documentation with the development process, a description of the results, conclusions and recommendations.</td>
+        <td>MySQL Integration, ETL-like process, Data Modeling, Data Processing, DAX, Measures Calculation, Visualization Techniques, Advanced Analytics.</td>
         <td><a href="https://github.com/leocareer/DA_specialization/tree/main/Sprint_05">GitHub</a></td>
     </tr>
     <tr>
         <td><b>Power BI</b></td>
-        <td><b>Report. </b> </td>
-        <td></td>
+        <td><b>Report. </b>A three-page report designed with a strong focus on UX/UI principles, provides a comprehensive multi-level analysis of sales performance with slicers by countries, companies, and clients. It is accompanied by documentation with the development process, a description of the results, conclusions and recommendations.</td>
+        <td>UX/UI Design, DAX, Measures Calculation, Advanced Visualization Techniques.</td>
         <td><a href="https://github.com/leocareer/DA_specialization/tree/main/Sprint_06">GitHub</a></td>
     </tr>
     <tr>
