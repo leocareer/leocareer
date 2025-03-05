@@ -1,6 +1,6 @@
 👋 Hey there
 
-I'm Leo, I love answering complex questions with clear visualizations, finding insights, prove hypotheses, and learning new things. Check out my portfolio in the table below and the two special projects in the Pins. Feel free to write to me on [LinkedIn](https://linkedin.com/in/leokalugina) or email. Thank you for stopping by!
+I'm Leo, I love answering complex questions with clear visualizations, finding insights, prove hypotheses, and learning new things. Check out my portfolio in the table below and the special project in the Pins. Feel free to write to me on [LinkedIn](https://linkedin.com/in/leokalugina) or email. Thank you for stopping by!
 
 📍 Open to job offers 
 <br>
@@ -14,7 +14,7 @@ I'm Leo, I love answering complex questions with clear visualizations, finding i
     </tr>
     <tr>
         <td><b>Python</b></td>
-        <td><b>Data and Control Structures. </b>Solutions to real-world problems using Python’s data structures and control flow mechanisms. The exercises focus on implementing small yet practical programs, such as a Body Mass Index (BMI) calculator, Temperature converter, Word counter etc, while following best coding practices (PEP 8, PEP 257, Google style for docstrings).</td>
+        <td><b>Data and Control Structures. </b>Solutions to real-world problems using Python’s data structures and control flow mechanisms. The exercises focus on implementing small yet practical programs, such as a Body Mass Index calculator, Temperature converter, Word counter etc, while following best coding practices (PEP 8, PEP 257, Google style for docstrings).</td>
         <td>Functions, Input Validation, Conditional Statements, Exception Handling, Loops, Lists, Dictionaries, Tuples, JSON, File Handling.</td>
         <td><a href="https://github.com/leocareer/DA_specialization/tree/main/Sprint_07">GitHub</a></td>
     </tr>
@@ -50,20 +50,20 @@ I'm Leo, I love answering complex questions with clear visualizations, finding i
     </tr>
     <tr>
         <td><b>SQL</b></td>
-        <td><b>Basic Queries. </b> </td>
-        <td></td>
+        <td><b>Basic Queries. </b>Contains a collection of fundamental SQL queries, demonstrating key data extraction, transformation, and aggregation techniques for working with relational databases.</td>
+        <td>MySQL, Selection, Aggregation, Joins, Subqueries, Data Filtering.</td>
+        <td><a href="https://github.com/leocareer/DA_specialization/tree/main/Sprint_03">GitHub</a></td>
+    </tr>
+    <tr>
+        <td><b>SQL<br>Python</b></td>
+        <td><b>Managing Tables and Views. Data Encryption. </b>Contains a collection of SQL queries and Python notebook that demonstrate creating and managing tables, establishing relationships, and ensuring data integrity. Covers a variety of tasks such as preprocessing data, data encryption, handling data updates and deletions, managing database views, and step-by-step manual. It is accompanied by documentation describing the development process.</td>
+        <td>MySQL, Python Scripting, Data Transformation, Indexing, Views, Managing Tables, Transactions, Data Encryption.</td>
         <td><a href="https://github.com/leocareer/DA_specialization/tree/main/Sprint_03">GitHub</a></td>
     </tr>
     <tr>
         <td><b>SQL</b></td>
-        <td><b>Managing Indexes, Tables and Views. </b> </td>
-        <td></td>
-        <td><a href="https://github.com/leocareer/DA_specialization/tree/main/Sprint_03">GitHub</a></td>
-    </tr>
-    <tr>
-        <td><b>SQL</b></td>
-        <td><b>Managing Database. </b> </td>
-        <td></td>
+        <td><b>Managing Database. </b>Contains the design and creation of a star schema database based on CSV files and specific data selection requirements, integrating new tables with data parsing, and a collection of queries designed for efficient data retrieval and analysis within the star schema model. It includes documentation with the development process.</td>
+        <td>Database Design, Star Schema, Foreign and Primary Keys, SQL Data Types, Data Parsing</td>
         <td><a href="https://github.com/leocareer/DA_specialization/tree/main/Sprint_03">GitHub</a></td>
     </tr>
 </table>
