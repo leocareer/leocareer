@@ -52,7 +52,7 @@ I'm Leo, I love answering complex questions with clear visualizations, finding i
         <td><b>SQL</b></td>
         <td><b>Basic Queries. </b>Contains a collection of fundamental SQL queries, demonstrating key data extraction, transformation, and aggregation techniques for working with relational databases.</td>
         <td>MySQL, Selection, Aggregation, Joins, Subqueries, Data Filtering.</td>
-        <td><a href="https://github.com/leocareer/DA_specialization/tree/main/Sprint_03">GitHub</a></td>
+        <td><a href="https://github.com/leocareer/DA_specialization/tree/main/Sprint_02">GitHub</a></td>
     </tr>
     <tr>
         <td><b>SQL<br>Python</b></td>
@@ -64,6 +64,6 @@ I'm Leo, I love answering complex questions with clear visualizations, finding i
         <td><b>SQL</b></td>
         <td><b>Managing Database. </b>Contains the design and creation of a star schema database based on CSV files and specific data selection requirements, integrating new tables with data parsing, and a collection of queries designed for efficient data retrieval and analysis within the star schema model. It includes documentation with the development process.</td>
         <td>Database Design, Star Schema, Foreign and Primary Keys, SQL Data Types, Data Parsing</td>
-        <td><a href="https://github.com/leocareer/DA_specialization/tree/main/Sprint_03">GitHub</a></td>
+        <td><a href="https://github.com/leocareer/DA_specialization/tree/main/Sprint_04">GitHub</a></td>
     </tr>
 </table>
