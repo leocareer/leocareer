@@ -1,6 +1,6 @@
 👋 Hey there
 
-I'm Leo, I love answering complex questions with clear visualizations, finding insights, prove hypotheses, and learning new things. Check out my portfolio in the table below and the special project in the Pins. Feel free to write to me on [LinkedIn](https://linkedin.com/in/leokalugina) or email. Thank you for stopping by!
+I'm Leo, I love finding hidden issues, helping teams avoid surprises, improving product quality, and learning new things. Check out my portfolio in the table below and the special project in the Pins. Feel free to write to me on [LinkedIn](https://linkedin.com/in/leokalugina) or email. Thank you for stopping by!
 
 📍 Open to job offers 
 <br>
