@@ -14,7 +14,7 @@ I'm Leo, I love finding hidden issues, helping teams avoid surprises, improving 
     </tr>
     </tr>
         <tr>
-        <td><b>Smart Contract Testing</b><br><em>in progress</em></td>
+        <td><b>Smart Contract Testing</b></td>
         <td><b>Solidity Contracts and Foundry Tests. </b>A subscription-based system implemented with Solidity and tested using Foundry. The project includes smart contracts for payment processing, access control, and subscription tracking.</td>
         <td>Solidity, Foundry, Blockchain, Web3</td>
         <td><a href="https://github.com/leocareer/Contract-Testing-Foundry">GitHub</a></td>
