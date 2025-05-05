@@ -12,6 +12,13 @@ I'm Leo, I love finding hidden issues, helping teams avoid surprises, improving 
         <th>Stack</th>
         <th>Link</th>
     </tr>
+    </tr>
+        <tr>
+        <td><b>Smart Contract Testing</b><br><em>in progress</em></td>
+        <td><b>Solidity Contracts and Foundry Tests. </b>A subscription-based system implemented with Solidity and tested using Foundry. The project includes smart contracts for payment processing, access control, and subscription tracking.</td>
+        <td>Solidity, Foundry, Blockchain, Web3</td>
+        <td><a href="https://github.com/leocareer/Contract-Testing-Foundry">GitHub</a></td>
+    </tr>
     <tr>
         <td><b>HTML/CSS</b></td>
         <td><b>Layout and UI Components. </b>Several projects demonstrating an understanding of UI behavior and front-end mechanics for more effective testing. Focused on building interactive and visually appealing web elements, including a drag-and-drop interface, two types of image sliders, and a personal resume page.</td>
@@ -28,7 +35,7 @@ I'm Leo, I love finding hidden issues, helping teams avoid surprises, improving 
         <td><b>Postman</b></td>
         <td><b>Postman Test Collection. </b>A collection demonstrates foundational skills in API testing, including writing simple test scripts and validating responses, showcasing an understanding of HTTP methods and status codes.</td>
         <td>Postman, REST API, JSON.</td>
-        <td><a href="https://github.com/leocareer/DA_specialization/tree/main/Sprint_02">GitHub</a></td>
+        <td><a href="https://github.com/leocareer/postman">GitHub</a></td>
     </tr>
     <tr>
         <td><b>SQL</b></td>
