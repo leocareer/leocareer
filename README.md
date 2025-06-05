@@ -12,6 +12,12 @@ I'm Leo, I love finding hidden issues, helping teams avoid surprises, improving 
         <th>Stack</th>
         <th>Link</th>
     </tr>
+    <tr>
+        <td><b>API Testing</b></td>
+        <td><b>Postman Test Collection. </b>Demonstrates practical skills in API testing using Postman and JSON Server. Includes automated checks for response structure, data validation, CRUD operations, and edge cases such as invalid inputs and cascading deletes. Highlights understanding of HTTP methods, status codes, and test coverage documentation.</td>
+        <td>Postman, REST API, JSON Server, JavaScript, JSON, HTTP</td>
+        <td><a href="https://github.com/leocareer/API-Testing">GitHub</a></td>
+    </tr>
     </tr>
         <tr>
         <td><b>Smart Contract Testing</b></td>
@@ -30,12 +36,6 @@ I'm Leo, I love finding hidden issues, helping teams avoid surprises, improving 
         <td><b>UI Interaction. </b>Developed small interactive games focusing on event handling, dynamic DOM manipulation, and game logic. These projects explore key JavaScript concepts such as timers, element creation, and user interaction to create engaging experiences.</td>
         <td>JavaScript, DOM Manipulation, Event Handling, Timers, Dynamic Elements, CSS Animations.</td>
         <td><a href="https://leocareer.github.io/game-colors/">Game_colors</a><br><a href="https://leocareer.github.io/game-circles/">Game_circles</a></td>
-    </tr>
-        <tr>
-        <td><b>Postman</b></td>
-        <td><b>Postman Test Collection. </b>A collection demonstrates foundational skills in API testing, including writing simple test scripts and validating responses, showcasing an understanding of HTTP methods and status codes.</td>
-        <td>Postman, REST API, JSON.</td>
-        <td><a href="https://github.com/leocareer/postman">GitHub</a></td>
     </tr>
     <tr>
         <td><b>SQL</b></td>
