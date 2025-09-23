@@ -41,7 +41,7 @@ I love finding hidden issues, helping teams avoid surprises, improving product q
         <td><b>SQL</b></td>
         <td><b>Basic Queries. </b>Contains a collection of fundamental SQL queries, demonstrating key data extraction, transformation, and aggregation techniques for working with relational databases.</td>
         <td>MySQL, Selection, Aggregation, Joins, Subqueries, Data Filtering.</td>
-        <td><a href="https://github.com/leocareer/DA_specialization/tree/main/Sprint_02">GitHub</a></td>
+        <td><a href="https://github.com/leocareer/SQL/tree/main/Basic%20Queries">GitHub</a></td>
     </tr>
     <tr>
         <td><b>SQL<br>Python</b></td>
