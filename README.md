@@ -14,7 +14,7 @@ I love finding hidden issues, helping teams avoid surprises, improving product q
     </tr>
     <tr>
         <td><b>API Testing</b></td>
-        <td><b>Postman Test Collection. </b>Demonstrates practical skills in API testing using Postman and JSON Server. Includes automated checks for response structure, data validation, CRUD operations, and edge cases such as invalid inputs and cascading deletes. Highlights understanding of HTTP methods, status codes, and test coverage documentation.</td>
+        <td><b>Postman Test Collection. </b>Demonstrates practical skills in API testing using Postman and JSON Server. Includes automated checks for response structure, data validation, CRUD operations, and edge cases such as invalid inputs and cascading deletes. Highlights understanding of HTTP methods, status codes, response validation, and database state changes during testing.</td>
         <td>Postman, REST API, JavaScript, JSON, HTTP</td>
         <td><a href="https://github.com/leocareer/API-Testing">GitHub</a></td>
     </tr>
