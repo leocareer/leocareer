@@ -29,7 +29,7 @@ I love finding hidden issues, helping teams avoid surprises, improving product q
         <td><b>HTML/CSS</b></td>
         <td><b>Layout and UI Components. </b>Several projects demonstrating an understanding of UI behavior and front-end mechanics for more effective testing. Focused on building interactive and visually appealing web elements, including a drag-and-drop interface, two types of image sliders, and a personal resume page.</td>
         <td>HTML, CSS, JavaScript</td>
-        <td><a href="https://leocareer.github.io/drag-and-drop/">Drag_and_drop</a><br><a href="https://leocareer.github.io/slider-cafe/">Slider_cafe</a><br><a href="https://leocareer.github.io/slider-jarritos/">Slider_jarritos</a><br><a href="https://leocareer.github.io/resume/">Resume</a></td>
+        <td><a href="https://leocareer.github.io/drag-and-drop/">Drag_and_drop</a><br><a href="https://leocareer.github.io/slider-cafe/">Slider_cafe</a><br><a href="https://leocareer.github.io/slider-jarritos/">Slider_jarritos</a></td>
     </tr>
         <tr>
         <td><b>JavaScript</b></td>
