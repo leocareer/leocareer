@@ -47,7 +47,7 @@ I love finding hidden issues, helping teams avoid surprises, improving product q
         <td><b>SQL<br>Python</b></td>
         <td><b>Managing Tables and Views. Data Encryption. </b>Contains a collection of SQL queries and Python notebook that demonstrate creating and managing tables, establishing relationships, and ensuring data integrity. Covers a variety of tasks such as preprocessing data, data encryption, handling data updates and deletions, managing database views, and step-by-step manual. It is accompanied by documentation describing the development process.</td>
         <td>MySQL, Python Scripting, Data Transformation, Indexing, Views, Managing Tables, Transactions, Data Encryption.</td>
-        <td><a href="https://github.com/leocareer/DA_specialization/tree/main/Sprint_03">GitHub</a></td>
+        <td><a href="https://github.com/leocareer/SQL/tree/main/Managing%20Tables">GitHub</a></td>
     </tr>
     <tr>
         <td><b>SQL</b></td>
