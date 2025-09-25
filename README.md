@@ -53,7 +53,7 @@ I love finding hidden issues, helping teams avoid surprises, improving product q
         <td><b>SQL</b></td>
         <td><b>Managing Database. </b>Contains the design and creation of a star schema database based on CSV files and specific data selection requirements, integrating new tables with data parsing, and a collection of queries designed for efficient data retrieval and analysis within the star schema model. It includes documentation with the development process.</td>
         <td>Database Design, Star Schema, Foreign and Primary Keys, SQL Data Types, Data Parsing</td>
-        <td><a href="https://github.com/leocareer/DA_specialization/tree/main/Sprint_04">GitHub</a></td>
+        <td><a href="https://github.com/leocareer/SQL/tree/main/Managing%20Database">GitHub</a></td>
     </tr>
     <tr>
         <td><b>Python</b></td>
