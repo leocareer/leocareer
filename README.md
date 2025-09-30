@@ -38,6 +38,12 @@ I love finding hidden issues, helping teams avoid surprises, improving product q
         <td><a href="https://leocareer.github.io/game-colors/">Game_colors</a><br><a href="https://leocareer.github.io/game-circles/">Game_circles</a></td>
     </tr>
     <tr>
+        <td><b>Python</b></td>
+        <td><b>Data and Control Structures. </b>Solutions to real-world problems using Python’s data structures and control flow mechanisms. The exercises focus on implementing small yet practical programs, such as a Body Mass Index calculator, Temperature converter, Word counter etc, while following best coding practices (PEP 8, PEP 257, Google style for docstrings).</td>
+        <td>Functions, Input Validation, Conditional Statements, Exception Handling, Loops, Lists, Dictionaries, Tuples, JSON, File Handling.</td>
+        <td><a href="https://github.com/leocareer/Python/tree/main/Data%20and%20Control%20Structures">GitHub</a></td>
+    </tr>
+    <tr>
         <td><b>SQL</b></td>
         <td><b>Basic Queries. </b>Contains a collection of fundamental SQL queries, demonstrating key data extraction, transformation, and aggregation techniques for working with relational databases.</td>
         <td>MySQL, Selection, Aggregation, Joins, Subqueries, Data Filtering.</td>
@@ -54,11 +60,5 @@ I love finding hidden issues, helping teams avoid surprises, improving product q
         <td><b>Managing Database. </b>Contains the design and creation of a star schema database based on CSV files and specific data selection requirements, integrating new tables with data parsing, and a collection of queries designed for efficient data retrieval and analysis within the star schema model. It includes documentation with the development process.</td>
         <td>Database Design, Star Schema, Foreign and Primary Keys, SQL Data Types, Data Parsing</td>
         <td><a href="https://github.com/leocareer/SQL/tree/main/Managing%20Database">GitHub</a></td>
-    </tr>
-    <tr>
-        <td><b>Python</b></td>
-        <td><b>Data and Control Structures. </b>Solutions to real-world problems using Python’s data structures and control flow mechanisms. The exercises focus on implementing small yet practical programs, such as a Body Mass Index calculator, Temperature converter, Word counter etc, while following best coding practices (PEP 8, PEP 257, Google style for docstrings).</td>
-        <td>Functions, Input Validation, Conditional Statements, Exception Handling, Loops, Lists, Dictionaries, Tuples, JSON, File Handling.</td>
-        <td><a href="https://github.com/leocareer/Python/tree/main/Data%20and%20Control%20Structures">GitHub</a></td>
     </tr>
 </table>
